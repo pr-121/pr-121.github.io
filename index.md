@@ -9,4 +9,8 @@ Bei den Coups, wie ihre Aktionen von Egon Olsen genannt werden, "bedienen" sie s
 * Namensgeber der Bande
 * Hat immer einen Plan
 
+Zitat:
 > Ich habe einen Plan !
+
+
+<img src="http://www.olsen-bande.com/autogramme/autogramm6.gif"/>
