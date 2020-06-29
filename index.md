@@ -6,6 +6,10 @@ Nie würden sie sich an den "kleinen Leuten" vergreifen. <br>
 Die Beute befindet sich meistens in Tresoren der Marke "Franz Jäger Berlin", auf die Egon Olsen spezialisiert ist. 
 Schnell ist man geneigt zu sagen: Es sind ehrliche Kleinkriminelle. Hier wird das Leben mit einem großen Augenzwinkern betrachtet.
 <br><br>
+<img src="images/Olsen_Banden.jpg"/>
+<br><br>
+
+
 
 ## Egon
 * Name: Egon Olsen
