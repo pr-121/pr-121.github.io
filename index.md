@@ -9,13 +9,14 @@ Schnell ist man geneigt zu sagen: Es sind ehrliche Kleinkriminelle. Hier wird da
 
 ## Egon
 * Name: Egon Olsen
+* Schauspieler: Ove Sprogøe
 * Funktion: Anführer der Bande
 * Namensgeber der Bande
 * Hat immer einen Plan
 <br><br>
 
 Zitat:
-> Ich habe einen Plan !
+> Ich habe einen Plan!
 
 <br><br>
 
@@ -27,15 +28,35 @@ Zitat:
 
 ## Benny
 * Name: Benny Frandsen
+* Schauspieler: Morten Grunwald
 * Funktion: Fahrer (von Auto bis Panzer)
 * Trägt Schlapphut, ein kariertes Sakko und gelbe Socken
 * Hopst und Hüpft beim gehen
 <br><br>
 
 Zitat:
-> Mächtig gewaltig Egon !
+> Mächtig gewaltig Egon!
 
 <br><br>
 
 <img src="images/benny_portrait.png"/>
+<br><br><br><br>
+
+
+
+
+## Kjeld
+* Name: Kjeld Jensen
+* Schauspieler: Poul Bundgaard
+* Funktion: Beschafft die benötigten Gegenstände für den Coups
+* Trägt Schiebermütze, Fliege und Hebammentasche
+* Steht unter der Fuchtel von Yvonne
+<br><br>
+
+Zitat:
+> Ist das Gefährlich?
+
+<br><br>
+
+<img src="images/kjelt_portrait.png"/>
 <br><br><br><br>
