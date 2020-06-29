@@ -8,3 +8,5 @@ Bei den Coups, wie ihre Aktionen von Egon Olsen genannt werden, "bedienen" sie s
 * Funktion: Anführer der Bande
 * Namensgeber der Bande
 * Hat immer einen Plan
+
+> Ich habe einen Plan !
